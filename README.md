@@ -11,4 +11,4 @@
 | 주차 | 기간 | 공통문제 | 오세강 | 강의 |
 |:---:|:---:|:---:|:---:|:---:|
 |1|2021.09.23 ~ 2021.09.29| [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | [1차 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682), [1차 비밀 지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | [1](https://youtu.be/m-9pAwq1o3w), [2](https://youtu.be/7C9RgOcvkvo) |
-|2|2021.09.30 ~ 2021.10.06|[4주차_직업군 추천하기](https://programmers.co.kr/learn/courses/30/lessons/84325) | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484),[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | |
+|2|2021.09.30 ~ 2021.10.06|[4주차_직업군 추천하기](https://programmers.co.kr/learn/courses/30/lessons/84325) | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484), [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | |

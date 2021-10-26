@@ -7,7 +7,7 @@ def solution(ss):
     print()
 
     answer = ss.replace('{', '')
-    answer = str(answer).replace('}}', '},')
+    answer = answer.replace('}}', '},')
     answer = answer.split("},")
     answer.pop(-1)
 

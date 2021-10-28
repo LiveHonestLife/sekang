@@ -14,4 +14,4 @@
 |2|2021.09.30 ~ 2021.10.06|[4주차_직업군 추천하기](https://programmers.co.kr/learn/courses/30/lessons/84325) | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484), [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | |
 |3|2021.10.07 ~ 2021.10.13|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888?language=python3) | [1차 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | |
 |4|2021.10.14 ~ 2021.10.27| | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302), [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | |
-|5|2021.10.28 ~ 2021.11.03| | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302), [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | |
+|5|2021.10.28 ~ 2021.11.03|[빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052) | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | |

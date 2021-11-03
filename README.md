@@ -16,4 +16,4 @@
 |4|2021.10.14 ~ 2021.10.20| | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576), [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | |
 |5|2021.10.21 ~ 2021.10.27| | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302), [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)| |
 |6|2021.10.28 ~ 2021.11.03| | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058), [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)| |
-|7|2021.11.04 ~ 2021.11.10| | [?](https://programmers.co.kr/learn/courses/30/lessons/60058), [?](https://programmers.co.kr/learn/courses/30/lessons/42885)| |
+|7|2021.11.04 ~ 2021.11.10| | [[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)| |

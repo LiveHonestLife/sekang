@@ -1,46 +1,35 @@
-p = ["(()())()", ")(", "()))((()", ")()()()("]
+def solution(ss):
+    result = []
 
-def check(str):
-    correct = True
-    left = 0
-    right = 0
-    stack = []
 
-    for i in range(len(str)):
-        if str[i] == '(':
-            left += 1
-            stack.append('(')
-        else:
-            right += 1
-            if len(stack) == 0:
-                correct = False
-            else:
-                stack.pop()
 
-        if left == right:
-            return i + 1, correct
+    answer = ss.replace('{', '')
+    answer = answer.replace('}}', '},')
+    answer = answer.split("},")
+    answer.pop(-1)
 
-def solution(p):
-    if len(p) == 0:
-        return p
+    #print(answer)
 
-    pos, correct = check(p)
+    for s in answer:
+      result.append(list(map(int, s.split(','))))
 
-    u = p[:pos]
-    v = p[pos:]
+    result = sorted(result, key=len)
 
-    if correct:
-        return u + solution(v)
 
-    answer = '(' + solution(v) + ')'
-    for i in range(1, len(u) - 1):
-        if u[i] == '(':
-            answer += ')'
-        else:
-            answer += '('
+    # answer = str(answer).replace('}', '')
+    
+    # answer = list(map(int, answer)) # map?
+
+    answer = []
+    #answer = [o for li in result for o in li if o not in answer]
+    
+    for li in result:
+      for o in li:
+        if o not in answer:
+          #print(o)
+          answer.append(o)
+
+    print(answer)
+    print()
 
     return answer
-
-
-for pp in p:
-    print(solution(pp))

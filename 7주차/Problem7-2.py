@@ -1,3 +1,5 @@
+# 최종 코드
+
 # ord() : 파라미터c의 유니코드 int 값을 return
 # chr() : int값을 character로 변환할 때
 
@@ -36,3 +38,30 @@ print(solution("JAN"))
 print(solution("BBBAAAB")) #9
 print(solution("ABABAAAAABA")) #11
 print(solution("ZAAAZZZZZZZ"))
+
+# 초기 아이디어
+# def solution(name):
+#     answer = 0
+#     k = 1  # 순방향
+#     idx = 0
+#     name = list(name)
+#     corr = ['A'] * len(name)
+
+#     if name[1] == 'A':  # 역방향
+#         k = -1
+
+#     while True:
+#         ch = name[idx]
+#         diff = abs(ord('A') - ord(ch))
+#         name[idx] = 'A'
+#         answer += min(diff, 26 - diff)
+
+#         if name == corr:
+#             break
+#         if k == 1:
+#             idx += 1
+#         else:
+#             idx -= 1  # (idx-1) % len(name)
+#         answer += 1
+
+#     return answer

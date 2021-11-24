@@ -18,4 +18,4 @@
 |6|2021.10.28 ~ 2021.11.03| [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587/solution_groups?language=python3&type=my)| [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058), [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)| |
 |7|2021.11.04 ~ 2021.11.10| [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)| [[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)| |
 |8|2021.11.11 ~ 2021.11.17|[그리디 알고리즘](https://www.acmicpc.net/step/33)|1, 2, 3, 4, 5||
-|9|2021.11.18 ~ 2021.11.24|[큐, 덱](https://www.acmicpc.net/step/12)|1, 2, 3||
+|9|2021.11.18 ~ 2021.11.24|[큐, 덱](https://www.acmicpc.net/step/12)|1, 2, 3, 4, 5, 6, 7||
